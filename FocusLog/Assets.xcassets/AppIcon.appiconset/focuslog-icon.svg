@@ -1,0 +1,21 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="120" y1="80" x2="900" y2="980" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6977F7"/>
+      <stop offset="1" stop-color="#3039A8"/>
+    </linearGradient>
+    <linearGradient id="clock" x1="330" y1="250" x2="690" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DDE2FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="224" fill="url(#background)"/>
+  <circle cx="512" cy="512" r="312" fill="#1F276F" opacity=".22"/>
+  <circle cx="512" cy="512" r="276" fill="url(#clock)"/>
+  <circle cx="512" cy="512" r="222" fill="#EFF1FF"/>
+  <path d="M512 350V520L640 596" fill="none" stroke="#3E49C7" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="512" cy="512" r="40" fill="#3E49C7"/>
+  <path d="M395 674L469 744L648 582" fill="none" stroke="#29B780" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="750" cy="300" r="34" fill="#FFD76A"/>
+  <path d="M270 356L286 394L324 410L286 426L270 464L254 426L216 410L254 394Z" fill="#FFD76A"/>
+</svg>
